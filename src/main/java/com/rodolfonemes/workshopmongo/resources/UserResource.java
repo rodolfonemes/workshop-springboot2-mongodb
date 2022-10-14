@@ -17,6 +17,7 @@ import com.rodolfonemes.workshopmongo.domain.User;
 import com.rodolfonemes.workshopmongo.dto.UserDTO;
 import com.rodolfonemes.workshopmongo.services.UserService;
 
+
 @RestController
 @RequestMapping(value = "/users")
 public class UserResource {
